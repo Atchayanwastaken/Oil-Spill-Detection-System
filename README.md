@@ -23,7 +23,3 @@ fastapi dev app.py
 
 The app runs at `localhost:3000`.
 
-## Todo:
-- [x] Add Smooth Scrolling
-- [ ] Add User Support (with Login Pages, MySQL backend, Custom User pages)
-- [ ] Host the Server
